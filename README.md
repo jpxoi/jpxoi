@@ -52,13 +52,31 @@ role = "Frontend Developer"
 
 ### 💬 Jean Paul Today
 
-Junior Frontend Developer, frontend development with Javascript using React technology, basic Python knowledge to generate neural networks.
+Frontend development with Javascript using React technology, basic Python knowledge to generate basic neural networks.
 
-### 🌱 I'm currently learning... / Last Projects
+### 🌱 I'm currently learning
 
-- Personal projects 
+- CS50x
 - Advanced Python
-- Back-end Development
+- Backend Development
+
+### Social Media
+
+<p>
+  <a href="https://www.tiktok.com/@jpxoi">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jpxoi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/jpxoi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:hello@jpxoi.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 ### Github Stats:
 
@@ -68,3 +86,6 @@ Junior Frontend Developer, frontend development with Javascript using React tech
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpxoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide_stars=false" /></td>
   </tr>
 </table>
+
+### 🎧 Music | Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jproductionss&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jproductionss&redirect=true)
