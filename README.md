@@ -44,10 +44,9 @@ role = "Frontend Developer"
 
 ### 👨🏻‍💻 Projects
 Here are some of the notable projects that I've worked on:
-#### Responsible Portfolio Website
-[Check my personal website](https://jpxoi.com)
-[Check the source code](https://github.com/jpxoi/responsive-portfolio-website)
-
+* Responsible Portfolio Website
+  * [Check my personal website](https://jpxoi.com)
+  * [Check the source code](https://github.com/jpxoi/responsive-portfolio-website)
 * Mokepon
   * [Play Now](https://mokepon.jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/mokepon)
