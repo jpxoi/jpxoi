@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub page! Here you can find my personal projects and contributions to various open-source projects. Feel free to explore my repositories and leave comments or feedback.
+
 ```shell
 name = "Jean Paul Fernandez"
 role = "Frontend Developer"
 ```
-
-Welcome to my GitHub page! Here you can find my personal projects and contributions to various open-source projects. Feel free to explore my repositories and leave comments or feedback.
 
 ### 💻 Programming Languages
 <div>
