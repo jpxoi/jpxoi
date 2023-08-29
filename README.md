@@ -55,20 +55,26 @@ Here are some of the notable projects that I've worked on:
 * Battery
   * [Demo](https://battery.jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/battery-level-indicator)
+* Chatsy
+  * [Demo Video](https://youtu.be/-iT6aoJwfKE)
+  * [Check the source code](https://github.com/jpxoi/chatsy)
 
 ### 📚 Education
+* Bachelor of Science's Degree in Computer Science from [University Of Manchester](https://manchester.ac.uk) `In progress...`
+* CS50's Introduction to Computer Science from [HarvardX](https://www.edx.org/school/harvardx) `✅ Completed`
 * International Foundation in Engineering and Science from [INTO Manchester](https://www.intostudy.com/en/universities/into-manchester) `✅ Completed`
-* CS50's Introduction to Computer Science from [HarvardX](https://www.edx.org/school/harvardx) `In progress...`
-* Bachelor's Degree in Computer Science from [University Of Manchester](https://manchester.ac.uk) `In progress...`
+
+### 📜 Certifications
+* edX Verified Certificate for CS50's Introduction to Computer Science [Show credential](https://courses.edx.org/certificates/53ede3c1544e48069f0ccb72a4b58f53)
+* React From Scratch [Show credential](https://ed.team/u/jpxoi/curso/react)
+* Introduction to the Cloud with Azure [Show credential](https://platzi.com/p/jpxoi/curso/2200-course/diploma/detalle/)
+* Introduction to the Terminal and the Command Line Interface [Show credential](https://platzi.com/p/jpxoi/curso/2292-terminal/diploma/detalle/)
+* Software Engineering Foundations [Show credential](https://platzi.com/p/jpxoi/curso/1098-ingenieria/diploma/detalle/)
+* Basic Programming Course (New Edition) [Show credential](https://platzi.com/p/jpxoi/curso/3208-programacion-basica/diploma/detalle/)
+* NCUK International Foundation Certificate [Show credential](https://blockchainpaper.advancedsecure.co.uk/d/57b35a91-9a53-4617-a9dc-57867b340baa/)
+* Basic Programming Course [Show credential](https://platzi.com/p/jpxoi/curso/1050-programacion-basica/diploma/detalle/)
 
 <!---
-### 📜 Certifications
-* Curso de Introducción a la Terminal y Línea de Comandos [Show credential](https://platzi.com/p/jpxoi/curso/2292-terminal/diploma/detalle/)
-* Fundamentos de Ingeniería de Software [Show credential](https://platzi.com/p/jpxoi/curso/1098-ingenieria/diploma/detalle/)
-* Nuevo Curso Gratis de Programación Básica [Show credential](https://platzi.com/p/jpxoi/curso/3208-programacion-basica/diploma/detalle/)
-* NCUK International Foundation Certificate [Show credential](https://blockchainpaper.advancedsecure.co.uk/d/57b35a91-9a53-4617-a9dc-57867b340baa/)
-* Curso Gratis de Programación Básica [Show credential](https://platzi.com/p/jpxoi/curso/1050-programacion-basica/diploma/detalle/)
-
 ### 🏆 Awards and Achievements
 Award 1
 Award 2
