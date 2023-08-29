@@ -102,7 +102,7 @@ When I'm not coding, I enjoy swimming, reading and cycling
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpxoi&theme=dark&card_width=450em"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpxoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpxoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide_stars=false"/></td>
   </tr>
 </table>
 
