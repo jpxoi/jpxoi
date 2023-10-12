@@ -61,11 +61,12 @@ Here are some of the notable projects that I've worked on:
 
 ### 📚 Education
 * Bachelor of Science's Degree in Computer Science from [University Of Manchester](https://manchester.ac.uk) `In progress...`
-* CS50's Introduction to Computer Science from [HarvardX](https://www.edx.org/school/harvardx) `✅ Completed`
+* CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `✅ Completed`
 * International Foundation in Engineering and Science from [INTO Manchester](https://www.intostudy.com/en/universities/into-manchester) `✅ Completed`
 
 ### 📜 Certifications
 * edX Verified Certificate for CS50's Introduction to Computer Science [Show credential](https://courses.edx.org/certificates/53ede3c1544e48069f0ccb72a4b58f53)
+* Artificial Intelligence Tools for Developers [Show credential](https://platzi.com/p/jpxoi/curso/7964-ia-devs/diploma/detalle/)
 * React From Scratch [Show credential](https://ed.team/u/jpxoi/curso/react)
 * Introduction to the Cloud with Azure [Show credential](https://platzi.com/p/jpxoi/curso/2200-course/diploma/detalle/)
 * Introduction to the Terminal and the Command Line Interface [Show credential](https://platzi.com/p/jpxoi/curso/2292-terminal/diploma/detalle/)
@@ -82,18 +83,15 @@ Award 3
 --->
 
 ### 🏊🏻‍♂️ Hobbies and Interests
-When I'm not coding, I enjoy swimming, reading and cycling
+When I'm not coding, I enjoy 🏊🏻‍♂️ swimming, 📚 reading, 📹 video editing, and 🚴🏻‍♂️ cycling.
 
 ### 📞 Contact me
-<p>
+<p>🏊🏻‍♂️
   <a href="https://www.linkedin.com/in/jpxoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:hello@jpxoi.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/jpxoi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
