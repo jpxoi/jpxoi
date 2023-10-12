@@ -7,7 +7,12 @@ name = "Jean Paul Fernandez"
 role = "Frontend Developer"
 ```
 
+### About Me
+
+Ambitious and tech-savvy first-year Computer Science undergraduate student at the University of Manchester, proficient in software development and web technologies.
+
 ### 💻 Programming Languages
+
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,6 +26,7 @@ role = "Frontend Developer"
 </div>
 
 ### 🖱️ Technologies
+
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -31,6 +37,7 @@ role = "Frontend Developer"
 </div>
 
 ### ⚙️ Tools
+
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
@@ -47,9 +54,11 @@ role = "Frontend Developer"
 
 
 ### <a href="https://www.instagram.com/jpxoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpxoi" height="30" width="40" /></a>  <a href="https://www.instagram.com/jpxoi" target="_blank">Jean Paul Fernandez</a>
+
 👨🏻‍💻 Technology is the most empowering tool for creating innovative solutions for our everyday problems. My goal is to educate my community on technology for a better tomorrow, and empower them to find their own solutions using code.
 
 ### 👨🏻‍💻 Projects
+
 Here are some of the notable projects that I've worked on:
 * Responsible Portfolio Website
   * [Check my personal website](https://jpxoi.com)
@@ -67,11 +76,13 @@ Here are some of the notable projects that I've worked on:
   * [Check the source code](https://github.com/jpxoi/chatsy)
 
 ### 📚 Education
+
 * Bachelor of Science's Degree in Computer Science from [University Of Manchester](https://manchester.ac.uk) `In progress...`
 * CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `✅ Completed`
 * International Foundation in Engineering and Science from [INTO Manchester](https://www.intostudy.com/en/universities/into-manchester) `✅ Completed`
 
 ### 📜 Certifications
+
 * edX Verified Certificate for CS50's Introduction to Computer Science [Show credential](https://courses.edx.org/certificates/53ede3c1544e48069f0ccb72a4b58f53)
 * Artificial Intelligence Tools for Developers [Show credential](https://platzi.com/p/jpxoi/curso/7964-ia-devs/diploma/detalle/)
 * React From Scratch [Show credential](https://ed.team/u/jpxoi/curso/react)
@@ -90,20 +101,26 @@ Award 3
 --->
 
 ### 🏊🏻‍♂️ Hobbies and Interests
+
 When I'm not coding, I enjoy 🏊🏻‍♂️ swimming, 📚 reading, 📹 video editing, and 🚴🏻‍♂️ cycling.
 
 ### 📞 Contact me
-<p>🏊🏻‍♂️
+
+<p>
   <a href="https://www.linkedin.com/in/jpxoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:hello@jpxoi.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://jpxoi.com">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
 </p>
 
 
 ### 📊 Github Stats:
+
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpxoi&theme=dark&card_width=450em"/></td>
@@ -112,6 +129,7 @@ When I'm not coding, I enjoy 🏊🏻‍♂️ swimming, 📚 reading, 📹 vide
 </table>
 
 ### 🎧 Music | Spotify Playing Now
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jproductionss&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jproductionss&redirect=true)
 
 #### Thanks for visiting my GitHub page!
