@@ -60,9 +60,9 @@ Ambitious and tech-savvy first-year Computer Science undergraduate student at th
 ### 👨🏻‍💻 Projects
 
 Here are some of the notable projects that I've worked on:
-* Responsible Portfolio Website
+* React Portfolio Website
   * [Check my personal website](https://jpxoi.com)
-  * [Check the source code](https://github.com/jpxoi/responsive-portfolio-website)
+  * [Check the source code](https://github.com/jpxoi/portfolio)
 * Mokepon
   * [Play Now](https://mokepon.jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/mokepon)
