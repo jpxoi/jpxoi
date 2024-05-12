@@ -123,13 +123,9 @@ When I'm not coding, I enjoy 🏊🏻‍♂️ swimming, 📚 reading, 📹 vide
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpxoi&theme=dark&card_width=450em"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpxoi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&hide_stars=false"/></td>
+    <td valign="top"><img height="200em" src="https://readmestats.jpxoi.com/api/top-langs/?username=jpxoi&size_weight=0.5&count_weight=0.5&hide=css&layout=donut&theme=github_dark&hide_border=true"/></td>
+    <td valign="top"><img height="200em" src="https://readmestats.jpxoi.com/api?username=jpxoi&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=github_dark"/></td>
   </tr>
 </table>
-
-### 🎧 Music | Spotify Playing Now
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jproductionss&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jproductionss&redirect=true)
 
 #### Thanks for visiting my GitHub page!
