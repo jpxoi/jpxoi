@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi There! 👋
 
-Welcome to my GitHub page! Here you can find my personal projects and contributions to various open-source projects. Feel free to explore my repositories and leave comments or feedback.
+Welcome to my GitHub page! Here you can find my projects and contributions to various open-source projects. Feel free to explore my repositories and leave comments or feedback.
 
-```shell
-name = "Jean Paul Fernandez"
+```bash
+name = "Jean-Paul Fernandez"
 role = "Frontend Developer"
 ```
 
