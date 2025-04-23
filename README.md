@@ -63,6 +63,11 @@ Here are some of the notable projects that I've worked on:
 * React Portfolio Website
   * [Check my personal website](https://jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/portfolio)
+* R2Py CLI Tool
+  * [Check the source code](https://github.com/jpxoi/r2py-cli)
+* Pastoral Digital App
+  * [Check the live app](https://pastoralid.jpxoi.com)
+  * [Check the source code](https://github.com/jpxoi/pastoral-digital-app)
 * Mokepon
   * [Play Now](https://mokepon.jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/mokepon)
