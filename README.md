@@ -4,7 +4,7 @@ Welcome to my GitHub page! Here you can find my projects and contributions to va
 
 ```bash
 name = "Jean-Paul Fernandez"
-role = "Frontend Developer"
+role = "Fullstack Developer"
 ```
 
 ### About Me
