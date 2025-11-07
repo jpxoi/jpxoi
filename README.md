@@ -60,7 +60,7 @@ Ambitious and tech-savvy first-year Computer Science undergraduate student at th
 ### 👨🏻‍💻 Projects
 
 Here are some of the notable projects that I've worked on:
-* React Portfolio Website
+* Portfolio Website
   * [Check my personal website](https://jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/portfolio)
 * R2Py CLI Tool
