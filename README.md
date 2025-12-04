@@ -69,7 +69,7 @@ Here are some of the notable projects that I've worked on:
   * [Check the live app](https://pastoralid.jpxoi.com)
   * [Check the source code](https://github.com/jpxoi/pastoral-digital-app)
 * Mokepon
-  * [Play Now](https://mokepon.jpxoi.com)
+  * [Play Now](https://mokepon-fawn.vercel.app)
   * [Check the source code](https://github.com/jpxoi/mokepon)
 * Neural Network 101
   * [Check the source code](https://github.com/jpxoi/neuralnetwork101)
