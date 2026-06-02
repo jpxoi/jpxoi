@@ -1,136 +1,162 @@
-### Hi There! 👋
+# Hi, I'm Jean Paul Fernandez 👋
 
-Welcome to my GitHub page! Here you can find my projects and contributions to various open-source projects. Feel free to explore my repositories and leave comments or feedback.
+Software engineer and Computer Science student at The University of Manchester, focused on building scalable web platforms, AI-powered applications, and cloud-based digital products.
 
-```bash
-name = "Jean-Paul Fernandez"
-role = "Fullstack Developer"
+I work across modern web technologies, backend systems, databases, and infrastructure, combining technical problem-solving with a product-oriented approach to create practical, reliable, and user-focused software for real-world business needs.
+
+```ts
+const jeanPaul = {
+  location: "Manchester, UK",
+  role: "Software Engineer",
+  education: "BSc Computer Science @ The University of Manchester",
+  focus: [
+    "Full-stack Development",
+    "AI-powered Products",
+    "Cloud Infrastructure",
+    "Databases",
+    "Mobile Applications",
+  ],
+};
 ```
 
-### About Me
+## About me
 
-Ambitious and tech-savvy first-year Computer Science undergraduate student at the University of Manchester, proficient in software development and web technologies.
+* 🎓 Computer Science student at **The University of Manchester**
+* 💻 Building production-focused web applications with **TypeScript, Next.js, React, Python, PostgreSQL, and Redis**
+* 🤖 Interested in **AI-powered workflows**, LLM-integrated products, and developer tools
+* ☁️ Experienced with cloud platforms and deployment workflows including **Vercel, AWS, Cloudflare, Docker, and GitHub Actions**
+* 🧠 Strong interest in scalable systems, backend architecture, databases, and practical software engineering
 
-### 💻 Programming Languages
+## Tech stack
 
-<div>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-</div>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-### 🖱️ Technologies
+### Web, backend and AI
 
-<div>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</div>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white">
+</p>
 
-### ⚙️ Tools
+### Mobile
 
-<div>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+</p>
+
+### Databases and backend infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black">
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
+</p>
+
+### Cloud, DevOps and tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</div>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
+## Featured projects
 
-### <a href="https://www.instagram.com/jpxoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpxoi" height="30" width="40" /></a>  <a href="https://www.instagram.com/jpxoi" target="_blank">Jean Paul Fernandez</a>
+### Real-Time AI-Powered Transcription App
 
-👨🏻‍💻 Technology is the most empowering tool for creating innovative solutions for our everyday problems. My goal is to educate my community on technology for a better tomorrow, and empower them to find their own solutions using code.
+A real-time speech-to-text platform with session-based hosting, live transcription, translation, attendee-facing updates, AI-powered contextual Q&A, and WebSocket-based communication.
 
-### 👨🏻‍💻 Projects
+**Tech:** Next.js, WebSockets, PostgreSQL, Redis, AI SDK
 
-Here are some of the notable projects that I've worked on:
-* Portfolio Website
-  * [Check my personal website](https://jpxoi.com)
-  * [Check the source code](https://github.com/jpxoi/portfolio)
-* R2Py CLI Tool
-  * [Check the source code](https://github.com/jpxoi/r2py-cli)
-* Pastoral Digital App
-  * [Check the live app](https://pastoralid.jpxoi.com)
-  * [Check the source code](https://github.com/jpxoi/pastoral-digital-app)
-* Mokepon
-  * [Play Now](https://mokepon-fawn.vercel.app)
-  * [Check the source code](https://github.com/jpxoi/mokepon)
-* Neural Network 101
-  * [Check the source code](https://github.com/jpxoi/neuralnetwork101)
-* Battery
-  * [Demo](https://battery.jpxoi.com)
-  * [Check the source code](https://github.com/jpxoi/battery-level-indicator)
-* Chatsy
-  * [Demo Video](https://youtu.be/-iT6aoJwfKE)
-  * [Check the source code](https://github.com/jpxoi/chatsy)
+### AI-Powered Email Assistant for Microsoft Outlook
 
-### 📚 Education
+An Outlook-integrated assistant designed for thread summarisation, context-aware reply drafting, iterative refinement, and user-controlled draft creation using Microsoft Graph and LLM APIs.
 
-* Bachelor of Science's Degree in Computer Science from [University Of Manchester](https://manchester.ac.uk) `In progress...`
-* CS50's Introduction to Computer Science from [Harvard Online](https://www.edx.org/school/harvardx) `✅ Completed`
-* International Foundation in Engineering and Science from [INTO Manchester](https://www.intostudy.com/en/universities/into-manchester) `✅ Completed`
+**Tech:** React, TypeScript, Bun, SQLite, Microsoft Graph, LLM APIs
 
-### 📜 Certifications
+### Pastoral Digital App
 
-* edX Verified Certificate for CS50's Introduction to Computer Science [Show credential](https://courses.edx.org/certificates/53ede3c1544e48069f0ccb72a4b58f53)
-* Artificial Intelligence Tools for Developers [Show credential](https://platzi.com/p/jpxoi/curso/7964-ia-devs/diploma/detalle/)
-* React From Scratch [Show credential](https://ed.team/u/jpxoi/curso/react)
-* Introduction to the Cloud with Azure [Show credential](https://platzi.com/p/jpxoi/curso/2200-course/diploma/detalle/)
-* Introduction to the Terminal and the Command Line Interface [Show credential](https://platzi.com/p/jpxoi/curso/2292-terminal/diploma/detalle/)
-* Software Engineering Foundations [Show credential](https://platzi.com/p/jpxoi/curso/1098-ingenieria/diploma/detalle/)
-* Basic Programming Course (New Edition) [Show credential](https://platzi.com/p/jpxoi/curso/3208-programacion-basica/diploma/detalle/)
-* NCUK International Foundation Certificate [Show credential](https://blockchainpaper.advancedsecure.co.uk/d/57b35a91-9a53-4617-a9dc-57867b340baa/)
-* Basic Programming Course [Show credential](https://platzi.com/p/jpxoi/curso/1050-programacion-basica/diploma/detalle/)
+A progressive web application for managing attendance, users, events, and operational workflows for a school catechesis programme using QR-based tracking and admin dashboards.
 
-<!---
-### 🏆 Awards and Achievements
-Award 1
-Award 2
-Award 3
---->
+**Tech:** Next.js, PostgreSQL, Redis, Clerk Auth, Drizzle ORM, Zod, AWS S3
 
-### 🏊🏻‍♂️ Hobbies and Interests
+### Personal Portfolio
 
-When I'm not coding, I enjoy 🏊🏻‍♂️ swimming, 📚 reading, 📹 video editing, and 🚴🏻‍♂️ cycling.
+My personal website, where I showcase my work, projects, and professional profile.
 
-### 📞 Contact me
+* Website: [jpxoi.com](https://jpxoi.com)
+* Source code: [github.com/jpxoi/portfolio](https://github.com/jpxoi/portfolio)
+
+## Education
+
+* **Bachelor of Science in Computer Science**
+  The University of Manchester
+  Expected 2026
+
+* **International Foundation in Engineering and Science**
+  INTO Manchester
+
+* **CS50's Introduction to Computer Science**
+  Harvard Online
+
+## Currently interested in
+
+* Full-stack product engineering
+* AI-powered productivity tools
+* LLM workflows and context-aware applications
+* Backend systems and database design
+* Cloud infrastructure and deployment automation
+* Developer experience and practical software architecture
+
+## Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/jpxoi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:hello@jpxoi.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:jeanpaul@jpxoi.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://jpxoi.com">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white">
   </a>
 </p>
 
-
-### 📊 Github Stats:
+## GitHub stats
 
 <table>
   <tr>
-    <td valign="top"><img height="200em" src="https://readmestats.jpxoi.com/api/top-langs/?username=jpxoi&size_weight=0.5&count_weight=0.5&hide=css&layout=donut&theme=github_dark&hide_border=true"/></td>
-    <td valign="top"><img height="200em" src="https://readmestats.jpxoi.com/api?username=jpxoi&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=github_dark"/></td>
+    <td valign="top">
+      <img height="200em" src="https://readmestats.jpxoi.com/api/top-langs/?username=jpxoi&size_weight=0.5&count_weight=0.5&hide=css&layout=donut&theme=github_dark&hide_border=true"/>
+    </td>
+    <td valign="top">
+      <img height="200em" src="https://readmestats.jpxoi.com/api?username=jpxoi&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=github_dark"/>
+    </td>
   </tr>
 </table>
-
-#### Thanks for visiting my GitHub page!
