@@ -29,8 +29,6 @@ const jeanPaul = {
 
 ## Tech stack
 
-## Tech stack
-
 ### Languages
 
 <p>
