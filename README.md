@@ -92,7 +92,10 @@ const jeanPaul = {
   &nbsp;&nbsp;
   <img src="https://thesvg.org/icons/bun/default.svg" width="28" height="28" alt="Bun" title="Bun" />
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/express/default.svg" width="28" height="28" alt="Express.js" title="Express.js" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/expressdotjs/default.svg" />
+    <img src="https://thesvg.org/icons/expressdotjs/light.svg" width="28" height="28" alt="Express.js" title="Express.js" />
+  </picture>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/flask/default.svg" />
