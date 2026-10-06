@@ -86,7 +86,7 @@ A learning platform and digital experience for medical education, combining enro
 
 Built around server-side authorization, PostgreSQL, protected object storage, signed access, DRM-protected video, rate limiting, observability, and automated backups.
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Redis, Cloudflare R2, Bunny Stream
+**Tech:** `Next.js` `TypeScript` `PostgreSQL` `Redis` `Cloudflare R2` `Bunny Stream`
 
 ---
 
@@ -96,7 +96,7 @@ A customer loyalty and campaign management platform that validates fuel purchase
 
 Designed with transactional business rules, idempotent workflows, Redis-based coordination, asynchronous processing, rate limiting, audit trails, and production monitoring.
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Redis, Drizzle ORM, Cloudflare R2
+**Tech:** `Next.js` `TypeScript` `PostgreSQL` `Redis` `Drizzle ORM` `Cloudflare R2`
 
 ---
 
@@ -106,7 +106,7 @@ A real-time lecture transcription platform where hosts stream sessions while att
 
 Built around real-time communication, live data synchronization, presence, background AI workflows, caching, and usage controls.
 
-**Tech:** Next.js, TypeScript, OpenAI Realtime, Convex, Gemini, Redis
+**Tech:** `Next.js` `TypeScript` `OpenAI Realtime` `Convex` `Gemini` `Redis`
 
 ---
 
@@ -116,7 +116,7 @@ A developer API that provides unified access to Peruvian identity, tax, vehicle,
 
 Designed with provider abstraction, multi-layer caching, API keys, atomic credit consumption, plan-aware rate limiting, usage analytics, and payment integrations.
 
-**Tech:** React, TypeScript, Hono, Turso, Redis, Stripe, Mercado Pago
+**Tech:** `React` `TypeScript` `Hono` `Turso` `Redis` `Stripe` `Mercado Pago`
 
 ---
 
@@ -126,7 +126,7 @@ An open-source CLI that generates pull request titles and descriptions from Git 
 
 Supports multiple AI providers and local models while providing repository-level configuration, diagnostics, and automated package releases.
 
-**Tech:** Python, OpenAI, Gemini, Ollama, GitHub Actions
+**Tech:** `Python` `OpenAI` `Gemini` `Ollama` `GitHub Actions`
 
 ## Experience
 
@@ -162,14 +162,31 @@ The University of Manchester
 ## Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/jpxoi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://jpxoi.com" title="Website">
+    <img
+      src="https://jpxoi.com/apple-touch-icon.png"
+      width="30"
+      height="30"
+      alt="Website"
+    />
   </a>
-  <a href="mailto:jeanpaul@jpxoi.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jpxoi/" title="LinkedIn">
+    <img
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg"
+      width="30"
+      height="30"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://jpxoi.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white">
+  &nbsp;&nbsp;
+  <a href="mailto:jeanpaul@jpxoi.com" title="Email">
+    <img
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg"
+      width="30"
+      height="30"
+      alt="Email"
+    />
   </a>
 </p>
 
