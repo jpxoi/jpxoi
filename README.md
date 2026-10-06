@@ -34,29 +34,29 @@ const jeanPaul = {
 ### Languages
 
 <p>
-  <img src="https://thesvg.org/icons/typescript/default.svg" width="28" height="28" alt="TypeScript" title="TypeScript" />
+  <img src="https://thesvg.org/icons/typescript/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;TypeScript
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/javascript/default.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />
+  <img src="https://thesvg.org/icons/javascript/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;JavaScript
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/python/default.svg" width="28" height="28" alt="Python" title="Python" />
+  <img src="https://thesvg.org/icons/python/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Python
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/java/default.svg" width="28" height="28" alt="Java" title="Java" />
+  <img src="https://thesvg.org/icons/java/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Java
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/cplusplus/default.svg" width="28" height="28" alt="C++" title="C++" />
+  <img src="https://thesvg.org/icons/cplusplus/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;C++
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/csharp/default.svg" width="28" height="28" alt="C#" title="C#" />
+  <img src="https://thesvg.org/icons/csharp/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;C#
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/go/default.svg" />
-    <img src="https://thesvg.org/icons/go/light.svg" width="28" height="28" alt="Go" title="Go" />
-  </picture>
+    <img src="https://thesvg.org/icons/go/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;Go
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/php/default.svg" />
-    <img src="https://thesvg.org/icons/php/light.svg" width="28" height="28" alt="PHP" title="PHP" />
-  </picture>
+    <img src="https://thesvg.org/icons/php/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;PHP
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/swift/default.svg" width="28" height="28" alt="Swift" title="Swift" />
+  <img src="https://thesvg.org/icons/swift/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Swift
 </p>
 
 ### Web & Mobile
@@ -64,59 +64,59 @@ const jeanPaul = {
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/react/default.svg" />
-    <img src="https://thesvg.org/icons/react/light.svg" width="28" height="28" alt="React" title="React" />
-  </picture>
+    <img src="https://thesvg.org/icons/react/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;React
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/nextdotjs/default.svg" width="28" height="28" alt="Next.js" title="Next.js" />
+  <img src="https://thesvg.org/icons/nextdotjs/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Next.js
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/astro/default.svg" />
-    <img src="https://thesvg.org/icons/astro/light.svg" width="28" height="28" alt="Astro" title="Astro" />
-  </picture>
+    <img src="https://thesvg.org/icons/astro/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;Astro
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/tanstack/default.svg" width="28" height="28" alt="TanStack" title="TanStack" />
+  <img src="https://thesvg.org/icons/tanstack/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;TanStack
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/tailwind-css/default.svg" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://thesvg.org/icons/tailwind-css/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Tailwind CSS
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/vite/default.svg" width="28" height="28" alt="Vite" title="Vite" />
+  <img src="https://thesvg.org/icons/vite/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Vite
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/expo/default.svg" width="28" height="28" alt="Expo" title="Expo" />
+  <img src="https://thesvg.org/icons/expo/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Expo
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/xcode/default.svg" width="28" height="28" alt="Xcode" title="Xcode" />
+  <img src="https://thesvg.org/icons/xcode/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Xcode
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://thesvg.org/icons/nodedotjs/default.svg" width="28" height="28" alt="Node.js" title="Node.js" />
+  <img src="https://thesvg.org/icons/nodedotjs/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Node.js
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/bun/default.svg" width="28" height="28" alt="Bun" title="Bun" />
+  <img src="https://thesvg.org/icons/bun/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Bun
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/expressdotjs/default.svg" />
-    <img src="https://thesvg.org/icons/expressdotjs/light.svg" width="28" height="28" alt="Express.js" title="Express.js" />
-  </picture>
+    <img src="https://thesvg.org/icons/expressdotjs/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;Express.js
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/flask/default.svg" />
-    <img src="https://thesvg.org/icons/flask/light.svg" width="28" height="28" alt="Flask" title="Flask" />
-  </picture>
+    <img src="https://thesvg.org/icons/flask/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;Flask
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/fastapi/default.svg" width="28" height="28" alt="FastAPI" title="FastAPI" />
+  <img src="https://thesvg.org/icons/fastapi/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;FastAPI
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/postgresql/default.svg" width="28" height="28" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://thesvg.org/icons/postgresql/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;PostgreSQL
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/mysql/default.svg" />
-    <img src="https://thesvg.org/icons/mysql/light.svg" width="28" height="28" alt="MySQL" title="MySQL" />
-  </picture>
+    <img src="https://thesvg.org/icons/mysql/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;MySQL
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/turso/default.svg" />
-    <img src="https://thesvg.org/icons/turso/light.svg" width="28" height="28" alt="Turso" title="Turso" />
-  </picture>
+    <img src="https://thesvg.org/icons/turso/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;Turso
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/redis/default.svg" width="28" height="28" alt="Redis" title="Redis" />
+  <img src="https://thesvg.org/icons/redis/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Redis
 </p>
 
 ### Cloud, DevOps & Tools
@@ -124,27 +124,27 @@ const jeanPaul = {
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/amazon-web-services/default.svg" />
-    <img src="https://thesvg.org/icons/amazon-web-services/light.svg" width="28" height="28" alt="AWS" title="AWS" />
-  </picture>
+    <img src="https://thesvg.org/icons/amazon-web-services/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;AWS
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/azure-azure-a/default.svg" width="28" height="28" alt="Azure" title="Azure" />
+  <img src="https://thesvg.org/icons/azure-azure-a/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Azure
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/googlecloud/default.svg" width="28" height="28" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://thesvg.org/icons/googlecloud/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Google Cloud
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/cloudflare/default.svg" width="28" height="28" alt="Cloudflare" title="Cloudflare" />
+  <img src="https://thesvg.org/icons/cloudflare/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Cloudflare
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://thesvg.org/icons/vercel/default.svg" />
-    <img src="https://thesvg.org/icons/vercel/light.svg" width="28" height="28" alt="Vercel" title="Vercel" />
-  </picture>
+    <img src="https://thesvg.org/icons/vercel/light.svg" width="28" height="28" align="middle" alt="" />
+  </picture>&nbsp;Vercel
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/docker/default.svg" width="28" height="28" alt="Docker" title="Docker" />
+  <img src="https://thesvg.org/icons/docker/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Docker
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/git/default.svg" width="28" height="28" alt="Git" title="Git" />
+  <img src="https://thesvg.org/icons/git/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Git
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/linux/default.svg" width="28" height="28" alt="Linux" title="Linux" />
+  <img src="https://thesvg.org/icons/linux/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;Linux
   &nbsp;&nbsp;
-  <img src="https://thesvg.org/icons/github-actions/default.svg" width="28" height="28" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://thesvg.org/icons/github-actions/default.svg" width="28" height="28" align="middle" alt="" />&nbsp;GitHub Actions
 </p>
 
 ## Featured projects
